@@ -1,0 +1,50 @@
+.website-info {
+    height: auto;
+    width: 400px;
+    background: var(--dark-color);
+    color: white;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 10px;
+}
+
+.website-info h3 {
+    margin-bottom: 1rem;
+}
+
+.website-info p, .responsive-design p {
+    line-height: 1.5rem;
+    font-size: 0.8rem;
+}
+
+.about-website {
+    display: flex;
+    gap: 1rem;
+    color: white;
+}
+
+.emails {
+    margin: 1rem;
+    height: fit-content;
+    width: 320px;
+    background: var(--dark-color);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.emails p {
+    margin: 0.7rem;
+}
+
+.responsive-design {
+    background: var(--dark-color);
+    width: 300px;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.responsive-design h3 {
+    margin-bottom: 0.5rem;
+}
+

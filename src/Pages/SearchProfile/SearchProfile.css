@@ -1,0 +1,10 @@
+.search-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.claim-process {
+    padding: 1rem;
+}
+

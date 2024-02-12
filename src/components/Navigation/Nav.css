@@ -1,0 +1,29 @@
+.navigation-area {
+    height: 15vh;
+    width: 100%;
+    background: var(--dark-color);
+    z-index: 1;
+    display: flex;
+    padding: 2rem;
+
+}
+
+.menu-icon, .logo {
+    display: flex;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: white;
+    cursor: pointer;
+    align-self: center;
+}
+
+
+
+.logo a {
+
+    color: white;
+    margin-left: 2rem;
+    text-decoration: none;
+    align-content: center;
+}
+

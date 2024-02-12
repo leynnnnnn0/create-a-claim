@@ -1,0 +1,34 @@
+.yes-or-no div {
+    display: flex;
+    margin-top: 0.5rem;
+}
+
+.yes-or-no label {
+    margin-right: 1rem;
+}
+
+.name-and-rego {
+    display: flex;
+    flex-direction: column;
+}
+
+.hide div {
+    display: none;
+}
+
+.claim-form {
+    display: flex;
+    gap: 2rem;
+}
+
+textarea {
+    resize: none;
+    height: 200px;
+    width: 300px;
+    padding: 0.5rem;
+}
+
+.second-row div {
+    display: flex;
+    flex-direction: column;
+}
