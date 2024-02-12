@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/create-a-claim/static/css/main.736f8bb9.css",
+    "main.js": "/create-a-claim/static/js/main.4f74d9b7.js",
+    "static/media/black.jpg": "/create-a-claim/static/media/black.f583b4087ee504b413ec.jpg",
+    "index.html": "/create-a-claim/index.html",
+    "main.736f8bb9.css.map": "/create-a-claim/static/css/main.736f8bb9.css.map",
+    "main.4f74d9b7.js.map": "/create-a-claim/static/js/main.4f74d9b7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.736f8bb9.css",
+    "static/js/main.4f74d9b7.js"
+  ]
+}
